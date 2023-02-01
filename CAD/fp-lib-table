@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Hackfest 2022 Badge")(type "KiCad")(uri "$(KIPRJMOD)/Hackfest 2022 Badge.pretty")(options "")(descr ""))
+  (lib (name "hackfestFootprints")(type "KiCad")(uri "C:/Users/Kevin/OneDrive - Tier 3 Tech/Badges/Project-Hackfest/Footprints")(options "")(descr ""))
+)
